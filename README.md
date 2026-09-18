@@ -1,2 +1,3 @@
-# amazon-reviews-sentiment-analysis
-Text mining and sentiment analysis of Amazon UK customer reviews using R.
+# Amazon Reviews Text Mining & Sentiment Analysis
+
+This repository contains my Text Mining project developed in R.
